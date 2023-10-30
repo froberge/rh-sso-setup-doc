@@ -49,7 +49,7 @@
 At this level there is different Option depending where the OpenShift cluster reside.
 
 1. [For a standard cluster](configure_OAuth.md)
-2. [For a cluster on ROSA](rosa-sso.md)
+2. [For a cluster on ROSA](rosa-config-ocm.md)
 
 ---
 
