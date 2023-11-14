@@ -17,7 +17,7 @@
 
 ## Step 2: Configure Keycloak
 
-1. Start by creatin a Realm. 
+1. Start by creating a Realm. 
     > ex: openshift
 2. Create group(s).
 3. Create user(s).
